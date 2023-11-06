@@ -1,6 +1,9 @@
-const NewPlace = () =>{
-return(
-    <h2>Hello there nice to meet you</h2>);
-};
+const NewPlace = () => {
+    return (
+        <form className="place-form">
 
-export default NewPlace
+            <input/>
+        </form>
+    );
+}
+export default NewPlace;
